@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Carla
 ####  Web design and development
-![ Web design and development](https://express.adobe.com/post/pPS6OYjx6Tl2L/)
+![6d2e79b9b8d3baa9efbc603d829e3ae4](https://user-images.githubusercontent.com/93951673/205732127-b1a3f1cc-1d9b-4478-9217-a12f0fdbca35.jpg)
+
 
 I am Carla from Argentina. I am passionate about design, illustration and web development. I love learning new frameworks, and I really enjoy developing UX design using pure css and discovering new libraries. I am a very creative, organized person who really enjoys working in a team.
 
