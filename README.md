@@ -9,6 +9,8 @@ Skills: JAVASCRIPT / REACT / REDUX / NEXT JS. / HTML / CSS / EXPRESS / SEQUELIZE
 - 🌱 I’m currently learning Material ui  
 - 👯 I’m looking to collaborate on  any creative project that contributes to my professional growth in which my knowledge in design and development can mean a great contribution. 
 
+--> carlamarquez.distextil@gmail.com 
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/caluMarquez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/carla-marquez-//)  
 
