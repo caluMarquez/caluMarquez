@@ -2,12 +2,11 @@
 ![Mi proyecto-1](https://user-images.githubusercontent.com/93951673/205737798-3f901130-ced7-4c6f-867c-ddbde2598d28.png)
 
 
-I am Carla from Argentina. I am passionate about design, illustration and web development. I love learning new frameworks, and I really enjoy developing UX design using pure css and discovering new libraries. I am a very creative, organized person who really enjoys working in a team.
+¡Hola! Soy Carla Marquez, diseñadora digital que vive en Buenos Aires, Argentina. Cuento con más de 8 años de experiencia y me muevo dentro del diseño digital (estampas, ilustraciones), la UX/UI, el desarrollo web fullstack (pero amo el frontend) y la identidad de marca. Me encanta crear experiencias de usuario fluidas y diseños web visualmente convincentes que resuenen con la gente.
 
-Skills: JAVASCRIPT / REACT / REDUX / NEXT JS. / HTML / CSS / EXPRESS / SEQUELIZE / FIREBASE / JAVA /  BOOTSTRAP / MATERIAL UI
+Hi! I'm Carla Marquez, a digital designer based in Buenos Aires, Argentina. I have more than 8 years of experience and I move within digital design (prints, illustrations), UX/UI, fullstack web development (but I love frontend) and brand identity. I love creating seamless user experiences and visually compelling web designs that resonate with people.
 
-- 🌱 I’m currently learning Material ui  
-- 👯 I’m looking to collaborate on  any creative project that contributes to my professional growth in which my knowledge in design and development can mean a great contribution. 
+Skills: FIGMA / JAVASCRIPT / REACT / HTML / CSS / WORDPRESS / PHOTOSHOP / ILLUSTRATOR
 
 --> carlamarquez.distextil@gmail.com 
 
